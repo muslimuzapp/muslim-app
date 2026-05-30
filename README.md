@@ -1,1 +1,1 @@
-# muslim-app
+# MuslimApp
